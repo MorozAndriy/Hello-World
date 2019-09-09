@@ -1,2 +1,3 @@
 # Hello-World
-First repository
+
+Just my first commit here!
